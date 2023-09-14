@@ -14,7 +14,7 @@ You are required to help the manager to predict the right group of the new custo
 
 ## Neural Network Model
 
-Include the neural network model diagram.
+![nnn](https://github.com/HariniBaskar/nn-classification/assets/93427253/e2dd1112-e295-418e-8df4-ebace7c1f0d0)
 
 ## DESIGN STEPS
 
